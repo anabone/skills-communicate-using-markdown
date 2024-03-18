@@ -6,3 +6,7 @@
 ``` javascript 
 var myName = "Ana";
 ```
+
+- [ ] Turn on the lights
+- [ ] Turn off the lights
+- [x] Go on a walk
